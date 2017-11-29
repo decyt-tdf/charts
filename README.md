@@ -1,4 +1,4 @@
-# Rharts
+# Charts
 Mono-repo de todos los charts que desarrollamos.
 
 Este repositorio es utilizado tanto para el desarrollo como como repositorio helm.
