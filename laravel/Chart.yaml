@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Un chart base para aplicaciones basadas en Laravel 
+name: laravel
+version: 0.1.0
