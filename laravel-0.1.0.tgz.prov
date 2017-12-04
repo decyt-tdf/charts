@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+apiVersion: v1
+description: Un chart base para aplicaciones basadas en Laravel
+name: laravel
+version: 0.1.0
+
+...
+files:
+  laravel-0.1.0.tgz: sha256:624a8a93afc19ffa468c906028ec6502b9a066f8e50b0489d29875ec384dfa01
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJaJWyXAAoJEOXwzbXC9RKSvR8IALBbOzsRqcvG+t4WcAHL8cZw
+Mp2LugywOCEiAHR7HHzNsg2TYf6fL+yAAOs3Ewq14t8maEMXVWyPw7sj0ZIFZBt0
+7aX3hpbklmZd8OeP8Mg1Tw4XMnHSOcEECtHYoFj5mIT5gmwnt23i22eA3Z/MM+Km
+YdseHxLkSXy7zZL0RSjgSdsHOWbsL4wjTEyUS52+dpF9TyDJBBeoU6est0NitAOa
+lGuG1gZw4BMDcLEeklubuepopHjFRoQMcOHKhBwwVethZztexqCDcnExz3GAEtQV
+Qp+QAYZV8asE69Bhow68BiG0gtrqPi7Osr++ZJRNHaGSc5IFO5EioIp/p2BOaM8=
+=9JI0
+-----END PGP SIGNATURE-----
