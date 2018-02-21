@@ -54,7 +54,9 @@ spec:
           env:
           - name: DB_HOST
             value: {{ .Release.Name}}-siep-mysql
-          image: "{{ .Values.phpImage.repository }}:{{ .Values.phpImage.tag }}"
+          - name: MEMCACHED_HOST
+            value: {{ .Release.Name}}-memcached
+         image: "{{ .Values.phpImage.repository }}:{{ .Values.phpImage.tag }}"
           imagePullPolicy: {{ .Values.phpImage.pullPolicy }}
           lifecycle:
             postStart:
