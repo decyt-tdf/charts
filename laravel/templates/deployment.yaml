@@ -51,6 +51,9 @@ spec:
             - name: workdir
               mountPath: "/application"
         - name: php-{{ .Chart.Name }}
+          env:
+          - name: DB_HOST
+            value: {{ .Release.Name}}-siep-mysql
           image: "{{ .Values.phpImage.repository }}:{{ .Values.phpImage.tag }}"
           imagePullPolicy: {{ .Values.phpImage.pullPolicy }}
           lifecycle:
