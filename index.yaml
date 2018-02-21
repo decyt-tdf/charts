@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  laravel:
+  - apiVersion: v1
+    created: 2018-02-21T12:48:14.499101177-03:00
+    description: Un chart base para aplicaciones basadas en Laravel
+    digest: 6d1867d599e324a4443b406a9f229c29c9d1d0bffbaa46f265dce2e6cd203aa7
+    name: laravel
+    urls:
+    - laravel-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2018-02-21T12:48:14.498317298-03:00
+    description: Un chart base para aplicaciones basadas en Laravel
+    digest: b0233bdac2ce896e6b227d631b65b36501b3a600b5816bfb6b1e281b8bb731c9
+    name: laravel
+    urls:
+    - laravel-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-21T12:48:14.497333186-03:00
