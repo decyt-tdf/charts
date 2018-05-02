@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   laravel:
   - apiVersion: v1
-    created: 2018-02-21T12:55:34.583155603-03:00
+    created: 2018-05-02T11:48:20.654405795-03:00
+    description: Un chart base para aplicaciones basadas en Laravel
+    digest: 09156b7ed183b28191dcdb1eb22150ddba2c122604cdce4618874026edad2670
+    name: laravel
+    urls:
+    - laravel-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v1
+    created: 2018-05-02T11:48:20.654061087-03:00
     description: Un chart base para aplicaciones basadas en Laravel
     digest: 6d1867d599e324a4443b406a9f229c29c9d1d0bffbaa46f265dce2e6cd203aa7
     name: laravel
@@ -10,7 +18,7 @@ entries:
     - laravel-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2018-02-21T12:55:34.582776855-03:00
+    created: 2018-05-02T11:48:20.653743308-03:00
     description: Un chart base para aplicaciones basadas en Laravel
     digest: 9d43ece472d9e31fe9eb4ae6eb1bae37a16343ed88abb9c3eb59dae6f72914df
     name: laravel
@@ -18,11 +26,11 @@ entries:
     - laravel-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2018-02-21T12:55:34.582408093-03:00
+    created: 2018-05-02T11:48:20.653402374-03:00
     description: Un chart base para aplicaciones basadas en Laravel
     digest: 624a8a93afc19ffa468c906028ec6502b9a066f8e50b0489d29875ec384dfa01
     name: laravel
     urls:
     - laravel-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-21T12:55:34.58195113-03:00
+generated: 2018-05-02T11:48:20.652978879-03:00
