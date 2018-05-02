@@ -56,7 +56,7 @@ spec:
             value: {{ .Release.Name}}-siep-mysql
           - name: MEMCACHED_HOST
             value: {{ .Release.Name}}-memcached
-         image: "{{ .Values.phpImage.repository }}:{{ .Values.phpImage.tag }}"
+          image: "{{ .Values.phpImage.repository }}:{{ .Values.phpImage.tag }}"
           imagePullPolicy: {{ .Values.phpImage.pullPolicy }}
           lifecycle:
             postStart:
